@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello, World!</string>
+    <string name="hello_android">Hello, Android!</string>
+    <string name="button">Button</string>
+    <string name="android_icon_description">Android Icon</string>
+    <string name="done">Done</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
