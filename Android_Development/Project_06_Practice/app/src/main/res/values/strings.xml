@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name_01">Relative Layout</string>
+    <string name="app_name_02">Food Choose</string>
+    <string name="app_name_03">Android</string>
+    <string name="app_name_04">Calculator</string>
+
+    <string name="button_next">Next View</string>
+    <string name="layout_01_button_enter_text">ENTER</string>
+    <string name="layout_01_first_name_text">First Name</string>
+    <string name="layout_01_last_name_text">Last Name</string>
+
+    <string name="layout_02_choose_food_text">Выберите еду</string>
+    <string name="layout_02_question_text">С собой?</string>
+    <string name="layout_02_toggle_button_text_on">YES</string>
+    <string name="layout_02_toggle_button_text_off">NO</string>
+    <string name="layout_02_checkbox_whopper">Воппер</string>
+    <string name="layout_02_checkbox_french_fries">Картошка фри</string>
+    <string name="layout_02_checkbox_drink">Пепси/Фанта/Спрайт</string>
+    <string name="layout_02_checkbox_sauce">Соус</string>
+    <string name="layout_02_checkbox_dessert">Десерт</string>
+
+    <string name="layout_03_image">Картинка для привлечения внимания</string>
+    <string name="layout_03_button_text">KNOW MORE</string>
+    <string name="layout_03_header">Обработка файлов</string>
+    <string name="layout_03_main_text">Android — операционная система для смартфонов, планшетов, электронных книг, цифровых проигрывателей, наручных часов, фитнесс-браслетов, игровых приставок, ноутбуков, нетбуков, смартбуков, очков Google Glass, телевизоров и других устройств (в 2015 году появилась поддержка автомобильных развлекательных систем и бытовых роботов). Основана на ядре Linux и собственной реализации виртуальной машины Java от Google. Изначально разрабатывалась компанией Android, Inc., которую затем купила Google. Впоследствии Google инициировала создание альянса Open Handset Alliance (OHA), который сейчас занимается поддержкой и дальнейшим развитием платформы. Android позволяет создавать Java-приложения, управляющие устройством через разработанные Google библиотеки. Android Native Development Kit позволяет портировать библиотеки и компоненты приложений, написанные на Си и других языках. В 86 % смартфонов, проданных во втором квартале 2014 года, была установлена операционная система Android. На конференции для разработчиков в мае 2017 года Google объявила, что за всю историю Android было активировано более 2 млрд Android-устройств.</string>
+
+    <string name="layout_04_row_01_col_01_text">1</string>
+    <string name="layout_04_row_01_col_02_text">2</string>
+    <string name="layout_04_row_01_col_03_text">3</string>
+    <string name="layout_04_row_01_col_04_text">+</string>
+    <string name="layout_04_row_02_col_01_text">4</string>
+    <string name="layout_04_row_02_col_02_text">5</string>
+    <string name="layout_04_row_02_col_03_text">6</string>
+    <string name="layout_04_row_02_col_04_text">-</string>
+    <string name="layout_04_row_03_col_01_text">7</string>
+    <string name="layout_04_row_03_col_02_text">8</string>
+    <string name="layout_04_row_03_col_03_text">9</string>
+    <string name="layout_04_row_03_col_04_text">*</string>
+    <string name="layout_04_row_04_col_01_text">%</string>
+    <string name="layout_04_row_04_col_02_text">0</string>
+    <string name="layout_04_row_04_col_03_text">C</string>
+    <string name="layout_04_row_04_col_04_text">/</string>
+</resources>

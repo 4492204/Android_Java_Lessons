@@ -8,4 +8,5 @@
 * [Test App](Android_Development/Project_02/app/src/main);
 * [TV Series App](Android_Development/Project_03/app/src/main);
 * [Send Intent App](Android_Development/Project_04/app/src/main);
-* [Call Intent App](Android_Development/Project_05/app/src/main).
+* [Call Intent App](Android_Development/Project_05/app/src/main);
+* [__Practice 01__](Android_Development/Project_06_Practice/app/src/main).
