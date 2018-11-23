@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_08_TimerApp</string>
+    <string name="buttonStartText">Start</string>
+    <string name="buttonStopText">Stop</string>
+    <string name="buttonResetText">Reset</string>
+    <string name="time_view_format">%d:%02d:%02d</string>
+</resources>

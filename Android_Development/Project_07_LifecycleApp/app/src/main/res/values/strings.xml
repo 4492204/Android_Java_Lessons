@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_07_LifecycleApp</string>
+    <string name="textViewText">The app has launched the first time</string>
+    <string name="clickMeButtonText">Click me</string>
+    <string name="exitAppButtonText">Exit</string>
+    <string name="alreadyLaunchedText">The app has already been launched</string>
+</resources>
