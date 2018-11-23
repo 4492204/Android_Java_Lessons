@@ -10,3 +10,5 @@
 * [Send Intent App](Android_Development/Project_04/app/src/main);
 * [Call Intent App](Android_Development/Project_05/app/src/main);
 * [__Practice 01__](Android_Development/Project_06_Practice/app/src/main).
+* [Lifecycle App](Android_Development/Project_07_LifecycleApp/app/src/main);
+* [Timer App](Android_Development/Project_08_TimerApp/app/src/main);
