@@ -12,3 +12,5 @@
 * [__Practice 01__](Android_Development/Project_06_Practice/app/src/main).
 * [Lifecycle App](Android_Development/Project_07_LifecycleApp/app/src/main);
 * [Timer App](Android_Development/Project_08_TimerApp/app/src/main);
+* [ArrayList App](Android_Development/Project_09_ArrayListApp/app/src/main);
+* [Sport App](Android_Development/Project_10_SportApp/app/src/main);

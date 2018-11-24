@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project_07_LifecycleApp</string>
+    <string name="app_name">Lifecycle App</string>
     <string name="textViewText">The app has launched the first time</string>
     <string name="clickMeButtonText">Click me</string>
     <string name="exitAppButtonText">Exit</string>

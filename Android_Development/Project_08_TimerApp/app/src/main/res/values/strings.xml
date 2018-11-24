@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project_08_TimerApp</string>
+    <string name="app_name">Timer App</string>
     <string name="buttonStartText">Start</string>
     <string name="buttonStopText">Stop</string>
     <string name="buttonResetText">Reset</string>
