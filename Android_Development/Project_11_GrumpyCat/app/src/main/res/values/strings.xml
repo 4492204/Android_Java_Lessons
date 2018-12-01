@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grumpy Cat App</string>
+    <string name="grumpy_cat_image">GrumpyCat Image</string>
+    <string name="grumpy_cat_text_placeholder">Grumpy Cat</string>
+</resources>

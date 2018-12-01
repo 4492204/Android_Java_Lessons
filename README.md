@@ -14,3 +14,5 @@
 * [Timer App](Android_Development/Project_08_TimerApp/app/src/main);
 * [ArrayList App](Android_Development/Project_09_ArrayListApp/app/src/main);
 * [Sport App](Android_Development/Project_10_SportApp/app/src/main);
+* [Grumpy Cat App](Android_Development/Project_11_GrumpyCat/app/src/main);
+* [Fragment App](Android_Development/Project_12_FragmentApp/app/src/main).
