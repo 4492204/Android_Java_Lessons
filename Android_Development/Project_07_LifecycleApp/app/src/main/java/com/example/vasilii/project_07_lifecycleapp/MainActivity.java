@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mInfoLog = findViewById(R.layout.activity_main);
+        mInfoLog = findViewById(R.id.textView);
         Toast.makeText(getApplicationContext(), "onCreate", Toast.LENGTH_LONG).show();
         Log.i(TAG, "onCreate");
     }
