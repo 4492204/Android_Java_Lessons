@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Портфолио</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Василий Ковалев</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text">
+        Приветствую вас на странице моего портфолио.
+        \n\nВыберите интересующий вас пункт моей биографии в левом меню
+        (вызывается при нажатии на значок гамбургера в верхнем левом углу).
+    </string>
+
+    <string name="nav_about">Обо мне</string>
+    <string name="nav_free_time">Мои увлечения</string>
+    <string name="nav_dissertation">Моя диссертация</string>
+    <string name="nav_plans">Мои планы</string>
+    <string name="nav_contacts">Контакты</string>
+
+    <string name="contact_vk_title">VK</string>
+    <string name="contact_vk_link">https://vk.com/id132698788</string>
+    <string name="contact_github_title">GitHub</string>
+    <string name="contact_github_link">https://github.com/vasilii-kovalev</string>
+    <string name="contact_habr_title">Habr</string>
+    <string name="contact_habr_link">https://habr.com/users/vasilii-kovalev</string>
+    <string name="contact_email_title">Email</string>
+    <string name="contact_email_link">vasya.kowalev@yandex.ru</string>
+
+    <string name="about_photo_description">Photo</string>
+    <string name="about_text">
+        Родом из Томской области. Закончил обучение в школе в 2013 году с красным дипломом и
+        золотой медалью.
+
+        \n\nПоступил в Томский государственный универсистет систем управления и радиоэлектроники (ТУСУР),
+        который закончил в 2017 году тоже с красным дипломом.
+
+        \n\nВ университете занимался исследованиями в области 4G связи, по результатам которых было
+        написано 3 научных статьи (2 РИНЦ, 1 ВАК).
+
+        \n\nВ начале 2018 поступил на вечерние бесплатные курсы в EPAM по Front-end разработке,
+        которые закончил успешно, и с июля работаю в компании.
+
+        \n\nТекущий ранг — middle software engineer.
+    </string>
+
+    <string name="free_time_photo_description">Music</string>
+    <string name="free_time_text">
+        &#8226; Игра на музыкальных инструментах;
+        \n\n&#8226; Просмотров фильмов, прослушивание музыки и чтение книг;
+        \n\n&#8226; Изучение чего-то нового в программирование и применение этого на практике;
+        \n\n&#8226; Компьютерные игры.
+    </string>
+
+    <string name="science_photo_description">Science</string>
+    <string name="dissertation_text"><b>Тема диссертации:</b>
+        \nСравнительный анализ моделей предоставления облачных вычислений в вебе
+        \n\nВ этой диссертации рассматриваются популярные и перспективные с точки зрения бизнеса и
+        капиталовложения модели обслуживания (SaaS, PaaS, IaaS и др.) и развёртывания
+        (публичное, приватное, гибридное и др. облака) в вебе.
+        \n\nДиссертация состоит из 4-х частей:\n
+        \n&#8226; Обзор литературы и обоснование актуальности проблемы;
+        \n&#8226; Непосредственно сам сравнительный анализ (теоретический);
+        \n&#8226; План проведения сравнения представителей моделей обслуживания на практике на
+        примере типичного для модели приложения;
+        \n&#8226; Проведение сравнительного анализа выбранных представителей моделей обслуживания.
+    </string>
+
+    <string name="plans_photo_description">Plans</string>
+    <string name="plans_text">
+        &#8226; <b>По учёбе</b>: поступить в аспирантуру по окончании магистратуры.
+        \n\n&#8226; <b>По работе</b>: получить позицию Senior Software Engineer, достигнуть комплексного
+        понимания Front-end разработки, научиться ценить своё время и принимать взвешенные решения.
+        \n\n&#8226; <b>В личной жизни</b>: улучшить свои навыки игры на музыкальных инструментах, начать путешествовать.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
